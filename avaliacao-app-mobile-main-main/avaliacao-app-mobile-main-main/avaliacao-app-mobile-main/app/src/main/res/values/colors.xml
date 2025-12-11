@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pure_black">#FF000000</color>
+    <color name="pure_white">#FFFFFFFF</color>
+
+    <color name="bg_main_screen">#F0F0F7</color>
+
+    <color name="btn_success_bg">#34C759</color>
+    <color name="btn_disabled_bg">#1D1B201A</color>
+    <color name="btn_disabled_fill">#D1D1D1</color>
+    <color name="btn_text_disabled">#A1A1A1</color>
+
+    <color name="stroke_focused">#6750A4</color>
+    <color name="stroke_error">#B3261E</color>
+    <color name="stroke_default">#1D1B20</color>
+</resources>
